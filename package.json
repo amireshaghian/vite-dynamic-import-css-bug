@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "name": "vite-dynamic-import-css-bug",
+  "version": "0.0.1",
+  "devDependencies": {
+    "vite": "^2.4.4"
+  }
+}
